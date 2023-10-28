@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "hg-pages -d src"
+    "deploy": "hg-pages -d ./src"
   },
   "keywords": [],
   "author": "",
